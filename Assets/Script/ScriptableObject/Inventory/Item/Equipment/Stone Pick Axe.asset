@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35b6282d8706b5343bb8b7b55ed8fce4, type: 3}
+  m_Name: Stone Pick Axe
+  m_EditorClassIdentifier: 
+  itemName: Stone Pick Axe
+  perfab: {fileID: 1308137886445305084, guid: cb4631f1d8a9113469ead98c6b0e21ca, type: 3}
+  iconItem: {fileID: 21300000, guid: f3ee982283388f544bdece69bc94bd8f, type: 3}
+  description: 
+  hasEndurance: 1
+  enduranceAmount: 100
+  enduranceRatio: 5
+  ID: 16
+  maxAmount: 1
+  amountToAdd: 1
+  rangeHit: 1
+  catalog: 3
+  layerInteract:
+    serializedVersion: 2
+    m_Bits: 8640
+  stats:
+  - stat: 5
+    value: 7

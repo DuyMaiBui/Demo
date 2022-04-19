@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99c0acaefd1bbaa4f80463d50036a0c2, type: 3}
+  m_Name: Stone
+  m_EditorClassIdentifier: 
+  itemName: Stone
+  perfab: {fileID: 8420350112905901725, guid: 7a35eb2dd2bfa12418563e9a61c9f5c1, type: 3}
+  iconItem: {fileID: 21300000, guid: b2966203c0d5cc84cb3725aa98b577eb, type: 3}
+  description: 
+  hasEndurance: 0
+  enduranceAmount: 100
+  enduranceRatio: 0
+  ID: 4
+  maxAmount: 30
+  amountToAdd: 1

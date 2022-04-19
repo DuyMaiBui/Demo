@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35b6282d8706b5343bb8b7b55ed8fce4, type: 3}
+  m_Name: Stone Spear
+  m_EditorClassIdentifier: 
+  itemName: Stone Spear
+  perfab: {fileID: 2437007104550178591, guid: 75d1bf6527c789a40bb1b8e793e93d65, type: 3}
+  iconItem: {fileID: 21300000, guid: 4f6f941c99fc5e541bbe175e2df2c231, type: 3}
+  description: 
+  hasEndurance: 1
+  enduranceAmount: 100
+  enduranceRatio: 5
+  ID: 17
+  maxAmount: 1
+  amountToAdd: 1
+  rangeHit: 1.25
+  catalog: 3
+  layerInteract:
+    serializedVersion: 2
+    m_Bits: 8384
+  stats:
+  - stat: 5
+    value: 15

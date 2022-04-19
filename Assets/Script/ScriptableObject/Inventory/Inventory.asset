@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f7977467daa0f948bd748c90ec18a34, type: 3}
+  m_Name: Inventory
+  m_EditorClassIdentifier: 
+  saveKey: Inventory
+  database: {fileID: 11400000, guid: dcc24d473e4eca34fafc15487df6769f, type: 2}
+  slotDatas:
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
+  - m_ID: -1
+    m_Amount: 0
