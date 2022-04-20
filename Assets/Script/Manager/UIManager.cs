@@ -81,6 +81,11 @@ public class UIManager : MonoBehaviour
     {
         TabState();
         ShowFPS();
+        if (_input.openMenu)
+        {
+            _input.openMenu = !_input.openMenu;
+            PauseState();
+        }
     }
 
     private void ShowFPS()

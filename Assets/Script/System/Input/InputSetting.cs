@@ -25,6 +25,7 @@ public class InputSetting : MonoBehaviour
     [Header("UI")]
     public bool openTab;
     public bool openUI;
+    public bool openMenu;
 
     private void Awake()
     {
@@ -94,6 +95,11 @@ public class InputSetting : MonoBehaviour
     public void OnOpenTab(InputValue value)
     {
         openTab = value.isPressed;
+    }
+
+    public void OnMenu(InputValue value)
+    {
+        openMenu = value.isPressed;
     }
 
     public void OnZoom(InputValue value)
